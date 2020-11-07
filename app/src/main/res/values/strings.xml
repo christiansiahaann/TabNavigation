@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabNavigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="second_fragment">SECOND FRAGMENT</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="subtitle_data">SUBTITLE DATA</string>
+    <string name="title_data">TITLE DATA</string>
+</resources>
